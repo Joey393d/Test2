@@ -4,7 +4,7 @@ This is a class repository
 
 ## Table of Contents
 
-1. Class 1 - [Growth Mindset](Reflection.md)
+1. [Class 1 - Growth Mindset](Reflection.md)
 2. Class 2 - ???
 
 # Headers
