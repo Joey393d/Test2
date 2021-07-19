@@ -1,4 +1,5 @@
 # Reading Notes
+# [Reflection](Reflection.md)
 This is a class repository
 
 
@@ -22,4 +23,4 @@ Hello! My name is Joey Young. I am looking to work in the tech field but I have 
 
 [here is a link to subway](https://www.subway.com/en-us)
 
-[a relative link](Reflection.md)
+
