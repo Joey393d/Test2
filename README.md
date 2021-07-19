@@ -1,4 +1,4 @@
-# Reading Notes
+## Reading Notes
 # [Reflection](Reflection.md)
 This is a class repository
 
