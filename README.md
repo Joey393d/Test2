@@ -1,8 +1,8 @@
-## Reading Notes
-# [Reflection](Reflection.md)
+# Reading Notes
+## [Reflection](Reflection.md)
 This is a class repository
 
-
+!!
 # Headers
 
 - Sections in the website
