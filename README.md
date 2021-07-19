@@ -2,7 +2,7 @@
 
 This is a class repository
 
-## table of contents
+## Table of Contents
 
 1. Class 1 - [Growth Mindset](Reflection.md)
 2. Class 2 - ???
