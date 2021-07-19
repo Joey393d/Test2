@@ -4,7 +4,7 @@ This is a class repository
 
 ## table of contents
 
-1. Class 1 - Growth Mindset
+1. Class 1 - [Growth Mindset](Reflection.md)
 2. Class 2 - ???
 
 # Headers
@@ -28,4 +28,4 @@ Hello! My name is Joey Young. I am looking to work in the tech field but I have 
 [here is a link to subway](https://www.subway.com/en-us)
 
 
-[Reflection](Reflection.md)
+
