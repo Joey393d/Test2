@@ -18,6 +18,6 @@ A growth mindset is when look at a challenge and what to overcome it rather than
 ~~This wasn't supposed to be here~~
 
 
-
+[Here is a link to my profile!](https://github.com/Joey393d)
 
 [here is a link to subway](https://www.subway.com/en-us)
