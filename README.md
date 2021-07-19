@@ -1,4 +1,4 @@
-# Test2
+# Reading Notes
 This is a class repository
 
 
