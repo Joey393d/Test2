@@ -12,8 +12,12 @@ A growth mindset is when look at a challenge and what to overcome it rather than
 
 # Reminders
 - **Don't give up**
-- *Pay attention
-- Strive for success
+- *Pay attention*
+- **_Strive_ for success**
+
+~~This wasn't supposed to be here~~
+
+
 
 
 [here is a link to subway](https://www.subway.com/en-us)
