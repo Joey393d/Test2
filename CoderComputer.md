@@ -26,11 +26,16 @@ Linux is an extentionless system
 Linux is case sensitive
 
 > test
+
 # test
+
 & test
+
 'test'
 
 *test*
+
 **test**
+
 * test
 
