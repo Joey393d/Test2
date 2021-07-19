@@ -1,3 +1,7 @@
+Table of Contents
+1. [Main Page](README.md)
+2. Class 2
+
 #Reflection and Discussion#
 - Markdown
 
