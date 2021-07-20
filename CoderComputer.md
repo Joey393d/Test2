@@ -31,7 +31,7 @@ Linux is case sensitive
 
 & test
 
-`dragonfly`
+'dragonfly' 
 
 *test*
 
@@ -41,4 +41,4 @@ Linux is case sensitive
 
 + test
 
-'test'
+
