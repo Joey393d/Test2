@@ -5,7 +5,9 @@ This is a class repository
 ## Table of Contents
 
 1. [Class 1 - Growth Mindset](Reflection.md)
-2. Class 2 - ???
+3. [Notes from class 1](Notes01.md)
+4. [Notes from class 2](Notes02.md)
+5. 
 
 
 
