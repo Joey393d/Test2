@@ -25,6 +25,13 @@ Linux is an extentionless system
 
 Linux is case sensitive
 
+Practice is good.
+
+Practice using the terminology in speaking.
+
+acp= add commit push
+
+
 
 
 
