@@ -4,9 +4,10 @@ This is a class repository
 
 ## Table of Contents
 
-1. [Class 1 - Growth Mindset](Reflection.md)
-2. [Notes from class 1](Notes01.md)
-3. [Notes from class 2](Notes02.md)
+1. Code 102 - Intro to Software Development
+2. Code 201 - Foundations of Software Development
+3. Code 301 - Intermediate Software Development
+4. Code 401 - Advanced Software Developmen
 
 
 
