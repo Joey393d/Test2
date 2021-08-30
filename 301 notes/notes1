@@ -26,4 +26,12 @@ How are props used in React?
 they are used for passing data from one component to another
 
 What is the flow of props?
-props data is read only wso the data coming from the parent should not be changed by child components.
+props data is read only so the data coming from the parent should not be changed by child components.
+
+
+
+
+#class 1
+
+classes are used to group together chunks of code so that you can reuse it in lots of places. You can extend classes with another class to create answers to different situations
+
