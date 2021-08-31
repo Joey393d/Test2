@@ -1,0 +1,12 @@
+Constructor, static getDerivedStateFromProps, render, componentDidMount, and UNSAFE_componentWillMount all occur in the mounting phase in that order. 
+
+static getDerivedStateFromProps, shouldComponentUpdate, render,
+getSnapshotBeforeUpdate, componentDidUpdate, UNSAFE_componentWillUpdate, UNSAFE_componentWillReceiveProps will run whenever a component is updated or state changes then is rendered.
+
+unmounting is the final phase of the lifecycle.
+
+there is a list of a bunch of events that happen during the lifecycle. https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093
+
+1. render
+2. mounting
+3. constructor, render, react updates, componentdidmount, componentwillunmount
